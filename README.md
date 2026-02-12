@@ -1,6 +1,6 @@
 # Whirling Triangle Feature Extraction Method
 
-## 📌 Overview
+## Overview
 The **Whirling Triangle Feature Extraction Method** is a geometric–computational framework that performs rotational triangular partitioning and extracts structured features from each generated region.
 
 This method is designed to model spatial complexity using whirling (rotating) triangle formations and convert geometric structures into machine-learning-ready datasets.
@@ -9,7 +9,7 @@ The project integrates computational geometry, spatial analytics, and feature en
 
 ---
 
-## 🧠 Key Concepts
+## Key Concepts
 
 - Whirling Triangle Decomposition  
 - Rotational Spatial Partitioning  
@@ -19,7 +19,7 @@ The project integrates computational geometry, spatial analytics, and feature en
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -31,7 +31,7 @@ The project integrates computational geometry, spatial analytics, and feature en
 
 ---
 
-## 📘 Notebook Description
+## Notebook Description
 
 ### 🔹 `Whirling_Triangle_Feature_Extraction_Method.ipynb`
 
@@ -48,7 +48,7 @@ The implementation ensures reproducibility and stable feature generation.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 **File:** `Whirling_Triangle_Features.csv`
 
@@ -63,7 +63,7 @@ Each row corresponds to one triangular region generated during the whirling deco
 
 ---
 
-## 🔍 Extracted Feature Categories
+## Extracted Feature Categories
 
 ### 🔸 Geometric Features
 - Triangle Area  
@@ -94,7 +94,7 @@ These features encode both **shape geometry** and **rotational spatial behavior*
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 Install dependencies:
 
@@ -104,7 +104,7 @@ pip install numpy pandas matplotlib scipy
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -133,7 +133,7 @@ Whirling_Triangle_Feature_Extraction_Method.ipynb
 
 ---
 
-## 🎯 Applications
+## Applications
 
 - Computational Geometry Research  
 - Pattern Recognition  
@@ -144,6 +144,6 @@ Whirling_Triangle_Feature_Extraction_Method.ipynb
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the **GNU General Public License v3.0**.  
